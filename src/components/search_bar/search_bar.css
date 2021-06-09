@@ -1,0 +1,22 @@
+.search_bar_div {
+
+}
+.search_bar_div_form {
+
+}
+.search_bar_div_form_label {
+    color: white;
+}
+.search_bar_div_form_label input{
+    outline: none;
+    width: 200px;
+    border: white solid 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.search_bar_div_form_input {
+    outline: none;
+    border: white solid 1px;
+    background-color: cornflowerblue;
+}
+

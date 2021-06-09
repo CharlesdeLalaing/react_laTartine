@@ -1,0 +1,24 @@
+.navigation_div_nav {
+    display: flex;
+    justify-content: space-between;
+}
+.navigation_div_nav_left {
+    text-align: left;
+}
+.navigation_div_nav_right {
+    text-align: right;
+    margin-right: 42px;
+}
+.navigation_div_nav_left ul{
+    display: flex;
+    list-style: none;
+}
+.navigation_div_nav_left ul li {
+    margin-right: 15px;
+    border: green solid 1px;  
+    color: white;  
+}
+.navigation_div_nav_left ul li a {
+    color: white;
+    padding: 3px 5px;    
+}

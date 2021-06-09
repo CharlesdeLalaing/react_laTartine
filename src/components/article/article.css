@@ -1,0 +1,24 @@
+.article_div {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 0;
+}
+.article_div_left {
+    width: 30%;
+    text-align: left;
+    margin-right: -200px;
+
+}
+.article_div_right {
+    width: 30%;
+    text-align: left;
+}
+.article_div_right > h1{
+    color: green;
+    font-size: 25px;
+    font-weight: bold;
+}
+.article_div_right > p{
+    color: white
+}
